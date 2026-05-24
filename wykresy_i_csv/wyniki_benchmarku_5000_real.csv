@@ -1,0 +1,4 @@
+﻿Model,Zdjecia,Średni czas (ms),FPS,Wykryte twarze,Skuteczność (%)
+YOLOv8-Face,5000,41.66,24.0,5157,103.14
+Qualcomm-Lightweight,5000,15.62,64.03,5000,100.0
+Google-MediaPipe,5000,2.11,474.71,5039,100.78
