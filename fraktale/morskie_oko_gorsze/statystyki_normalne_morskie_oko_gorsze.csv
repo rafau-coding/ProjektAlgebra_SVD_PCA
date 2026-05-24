@@ -1,0 +1,6 @@
+Wartosc_k,Nazwa_pliku,Pamiec_Skompresowana,Pamiec_Oryginalna,Oszczednosc_Procent
+10,10.png,60030,2764800,97.83
+50,50.png,300150,2764800,89.14
+100,100.png,600300,2764800,78.29
+250,250.png,1500750,2764800,45.72
+350,350.png,2101050,2764800,24.01
